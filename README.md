@@ -110,7 +110,3 @@ Este projeto implementa uma API REST em Flask integrada com um banco de dados SQ
   ```json
   { "success": "Pessoa deletada com sucesso" }
   ```
-
-## Autor
-
-Seu Nome - [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
